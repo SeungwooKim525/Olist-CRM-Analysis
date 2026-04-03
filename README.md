@@ -10,7 +10,7 @@
 ## 핵심 데이터 인사이트 (시각화 정리)
 # 배송 지연이 리텐션에 미치는 치명적 영향
 <img width="609" height="548" alt="on-time vs delayed" src="https://github.com/user-attachments/assets/deb44134-8681-464d-bff7-994b4f1b7909" />
-인사이트: 정시 배송 시 **22.72%**였던 VIP 재구매율이 지연 발생 시 **21.51%**로 약 1.21%p 하락함을 확인하였다.
+인사이트: 정시 배송 시 22.72%였던 VIP 재구매율이 지연 발생 시 21.51%로 약 1.21%p 하락함을 확인하였다.
 의미: VIP 집단의 미세한 이탈은 장기적으로 거대한 LTV(고객 생애 가치) 손실을 야기한다.
 
 # 지연 일수와 리뷰 점수의 상관관계
@@ -33,6 +33,7 @@
 
 # 개인화 메시지 설계 (Targeting List)
 # 지연 심각도(Risk Level)와 구매 카테고리를 결합한 1:1 개인화 오퍼 생성.
+
 - Critical (7일 이상 지연): VIP 20% 특별 할인권 발송
 
 - Warning (0~7일 지연): 감사 10% 쿠폰 발송
@@ -44,7 +45,11 @@ Segmentation: RFM (Recency, Frequency, Monetary) Scoring
 
 Analysis: Pandas, Matplotlib, Seaborn
 
-Impact Metric: RFM Customer Segmentation, Causality Analysis, LTV (Life Time Value) Protection, Priority Targeting, Prescriptive Analytics
+Impact Metric: RFM Customer Segmentation(고가치 고객군 정의),
+
+Causality Analysis(배송 지연과 리텐션 간의 인과관계 규명),
+
+Prescriptive Analytics(ROI 시뮬레이션을 통한 실행 가능한 전략(Action Plan) 도출)
 
 ## Author
 김승우

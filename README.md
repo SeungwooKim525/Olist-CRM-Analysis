@@ -31,8 +31,8 @@
 
 인사이트: bed_bath_table, health_beauty 등 고단가 및 반복 구매가 잦은 카테고리에서 지연 영향이 가장 큼을 확인하여 우선순위 타겟 설정
 
-## CRM 액션 플랜: Recovery Campaign
-# 시나리오별 ROI 시뮬레이션
+# CRM 액션 플랜: Recovery Campaign
+## 시나리오별 ROI 시뮬레이션
 
 캠페인 비용 대비 방어 매출을 계산하여 가장 효율적인 'Base' 시나리오를 채택하였다.
 | 시나리오 | 쿠폰 단가 | 예상 전환율 | 예상 비용 | 방어 매출 | ROI |

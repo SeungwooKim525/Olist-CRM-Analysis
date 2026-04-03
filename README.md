@@ -74,5 +74,5 @@ Prescriptive Analytics(ROI 시뮬레이션을 통한 실행 가능한 전략(Act
 
 ## Author
 김승우
-
+Velog: https://velog.io/@rjfldhs2/데이터-분석-배송-지연은-어떻게-VIP를-떠나게-하는가-ROI-3.85배의-CRM-전략
 GitHub: https://github.com/SeungwooKim525  

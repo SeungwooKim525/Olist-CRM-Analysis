@@ -14,19 +14,19 @@
 
 - CRM 개입의 필요성: 배송 인프라 개선은 장기적 과제이나, 당장 발생하는 VIP 고객 생애 가치(LTV) 손실을 방어하기 위해 즉각적인 마케팅적 보상(Retention Campaign)이 필수적이다.
 
-## 핵심적인 데이터 인사이트 (시각화 정리)
-# 배송 지연이 리텐션에 미치는 치명적 영향
+# 핵심적인 데이터 인사이트 (시각화 정리)
+## 배송 지연이 리텐션에 미치는 치명적 영향
 <img width="609" height="548" alt="on-time vs delayed" src="https://github.com/user-attachments/assets/deb44134-8681-464d-bff7-994b4f1b7909" />
 
 인사이트: 정시 배송 시 22.72%였던 VIP 재구매율이 지연 발생 시 21.51%로 약 1.21%p 하락함을 확인하였다.
 의미: 단 1.21%p의 차이지만, 구매 단가가 높은 VIP 구간에서는 연간 수천만 원 규모의 잠재적 매출 손실로 이어질 수 있는 유의미한 수치
 
-# 지연 일수와 리뷰 점수의 상관관계
+## 지연 일수와 리뷰 점수의 상관관계
 <img width="826" height="470" alt="review score by delivery delay days" src="https://github.com/user-attachments/assets/adf109d1-27b6-43e6-8cec-24f0858036d3" />
 
 인사이트: 배송 지연이 시작되는 0일(정시)을 기점으로 리뷰 점수가 급격히 하락하며, 5일 이상 지연 시 평균 점수가 2.0점 이하로 추락하였다.
 
-# 집중 관리 카테고리 식별
+## 집중 관리 카테고리 식별
 <img width="1140" height="684" alt="top 10 critical categories for vips" src="https://github.com/user-attachments/assets/ae9a021e-b404-4bc7-9147-f1587ae447f7" />
 
 인사이트: bed_bath_table, health_beauty 등 고단가 및 반복 구매가 잦은 카테고리에서 지연 영향이 가장 큼을 확인하여 우선순위 타겟 설정
